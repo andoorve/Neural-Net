@@ -1,5 +1,7 @@
-import numpy as np
-import node
+#Learned from http://neuralnetworksanddeeplearning.com by Michael Nielson
+#See Neural-Net-2 for improved version
+import numpy as np #www.numpy.org
+import node 
 
 class layer:
     def __init__(self, in_num, n_nodes, func):
