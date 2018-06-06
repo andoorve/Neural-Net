@@ -1,4 +1,7 @@
-import numpy as np
+#Functions gotten from https://en.wikipedia.org/wiki/Activation_function
+#Most are probably wrong
+#See Neural-Net-2/functions.py for "new" version, may actually be the same
+import numpy as np #www.numpy.org
 
 def linear(x):
     return x
