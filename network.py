@@ -1,5 +1,6 @@
-#http://neuralnetworksanddeeplearning.com by Michael Nielsen is a reference
-#https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/ by Matt Mazur is another reference
+#"Neural Networks and Deep Learning" - http://neuralnetworksanddeeplearning.com by Michael Nielsen is a reference
+#"A Step by Step Backpropagation Example" - https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/ by Matt Mazur is another reference
+#See Neural-Net-2 for a new version
 import layer
 import functions as f
 import numpy as np #www.numpy.org
