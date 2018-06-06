@@ -1,4 +1,5 @@
-#Learned this stuff from http://neuralnetworksanddeeplearning.com which is by Michael Nielsen
+#Learned this stuff from http://neuralnetworksanddeeplearning.com which is "Neural Networks and Deep Learning" by Michael Nielsen
+#See Neural-Net-2/layer.py for replacement
 import numpy as np #See www.numpy.org
 
 class node:
