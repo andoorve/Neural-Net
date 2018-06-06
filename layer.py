@@ -1,4 +1,4 @@
-#Learned from http://neuralnetworksanddeeplearning.com by Michael Nielson
+#Learned from "Neural Networks and Deep Learning" - http://neuralnetworksanddeeplearning.com by Michael Nielson
 #See Neural-Net-2 for improved version
 import numpy as np #www.numpy.org
 import node 
