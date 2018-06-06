@@ -1,4 +1,5 @@
-import numpy as np
+#Learned this stuff from http://neuralnetworksanddeeplearning.com which is by Michael Nielsen
+import numpy as np #See www.numpy.org
 
 class node:
     def __init__(self, func, b, input_num, w = []):
